@@ -1,0 +1,2 @@
+Player.new("Jan", 15, 15, 1)
+Player.new("Zdzichu", 15, 15, 2)
